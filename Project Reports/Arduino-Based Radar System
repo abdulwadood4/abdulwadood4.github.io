@@ -1,0 +1,16 @@
+**Arduino-Based DIY Radar System**
+A prototype radar system developed using Arduino, designed to detect object distance and movement through integrated sensors. The system processes sensor data in real-time, providing immediate visual feedback of object position and motion. The design was tested to simulate practical applications in monitoring, automation, and environmental sensing.
+
+
+
+Skills & Concepts Demonstrated
+
+Arduino programming and microcontroller integration
+
+Sensor interfacing and data acquisition
+
+Real-time data processing and visualization
+
+Prototype development and iterative testing
+
+Problem-solving and system design for practical applications
